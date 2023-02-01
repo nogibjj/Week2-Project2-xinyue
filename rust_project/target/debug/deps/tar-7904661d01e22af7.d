@@ -1,0 +1,14 @@
+/workspaces/Week2-Project2-xinyue/rust_project/target/debug/deps/tar-7904661d01e22af7.rmeta: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/archive.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/builder.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/entry.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/entry_type.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/error.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/header.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/pax.rs
+
+/workspaces/Week2-Project2-xinyue/rust_project/target/debug/deps/libtar-7904661d01e22af7.rlib: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/archive.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/builder.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/entry.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/entry_type.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/error.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/header.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/pax.rs
+
+/workspaces/Week2-Project2-xinyue/rust_project/target/debug/deps/tar-7904661d01e22af7.d: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/archive.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/builder.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/entry.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/entry_type.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/error.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/header.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/pax.rs
+
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/lib.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/archive.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/builder.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/entry.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/entry_type.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/error.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/header.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/pax.rs:
